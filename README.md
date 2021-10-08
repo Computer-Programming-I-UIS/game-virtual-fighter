@@ -7,8 +7,11 @@ Virtual Fighter es un video juego de peleas en los cuales podran jugar 2 persona
 
 
 REQUISITOS:
+
 1: tener instalado PROCESSING 4.0 en adelante
+
 2: importar las bibliotecas Sprite y Milim
+
 3: descargar el archivo completo: Menu
 
 
@@ -30,7 +33,9 @@ Para jugar con Perry el ornitorrico: letra A y D para mover personaje, puño con
 
 
 AUTORES:
+
 Tatiana Zarate
+
 Jose Serrano
 
 Diseño realizado en Pixilart
