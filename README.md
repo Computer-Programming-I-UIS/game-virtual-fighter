@@ -22,7 +22,9 @@ Capturas del juego:
 
 CONTROLES DEL JUEGO:
 -para avanzar entre menu, instrucciones y juego PRESIONAR LA TECLA: N
+
 para jugar con Bob esponja: flechitas izq y der, puño con letra: L, y patada: K
+
 Para jugar con Perry el ornitorrico: letra A y D para mover personaje, puño con: R, y Patada: F
 
 
