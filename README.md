@@ -34,5 +34,6 @@ Jose Serrano
 Diseño realizado en Pixilart
 
 CLASIFICACION
+
 ![image](https://user-images.githubusercontent.com/82965579/136504932-c7ac86cd-6a5f-4c4d-ba96-47ab91154bd0.png)
 
