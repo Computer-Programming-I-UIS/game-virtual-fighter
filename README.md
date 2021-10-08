@@ -13,6 +13,7 @@ REQUISITOS:
 
 
 Capturas del juego:
+
 ![image](https://user-images.githubusercontent.com/82965579/136504201-7ba90d61-b3d5-494a-b81b-6b7798e04ead.png)
 
 ![image](https://user-images.githubusercontent.com/82965579/136504232-ed94f922-4114-4007-a251-1db3d3754e99.png)
