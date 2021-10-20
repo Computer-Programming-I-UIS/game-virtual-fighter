@@ -32,6 +32,10 @@ Para jugar con Perry el ornitorrico: letra A y D para mover personaje, puño con
 
 
 
+TRAILER: https://youtu.be/lkKz0uLIq1o
+
+DIAPOSITIVAS: https://docs.google.com/presentation/d/16ZKWBZ821eocxB81QGoAOPlRyLgTyp0N4n0VznHN0ss/edit?usp=sharing
+
 AUTORES:
 
 Tatiana Zarate
